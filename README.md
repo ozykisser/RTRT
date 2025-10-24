@@ -4,6 +4,8 @@
 **Affiliation:** GRE Foundry, Daram, Samar, Philippines  
 **Copyright:** © 2025 Garret R. J. Krampe  
 **License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17433362.svg)](https://doi.org/10.5281/zenodo.17433362)
+**Latest DOI:** [10.5281/zenodo.17433362](https://doi.org/10.5281/zenodo.17433362)
 
 ---
 
